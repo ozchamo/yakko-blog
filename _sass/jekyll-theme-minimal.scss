@@ -174,12 +174,10 @@ strong {
   font-weight:700;
 }
 
-/*
 .downloads li + li + li {
   border-right:none;
   width:89px;
 }
-*/
 
 .downloads a strong {
   font-size:14px;
@@ -276,6 +274,10 @@ footer {
 
   .downloads li, .downloads li + li + li {
     width:33%;
+  }
+
+  .downloads li {
+    width:100%;
   }
 }
 
