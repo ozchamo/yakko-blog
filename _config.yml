@@ -3,3 +3,5 @@ description: YAB - Yet Another Blog! Where stuff that matters for YAKKO gets wri
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
+repository: ozchamo/YAKKO
+
