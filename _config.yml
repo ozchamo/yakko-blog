@@ -3,9 +3,10 @@ github:
   repository_url: https://github.com/ozchamo/YAKKO
   is_project_page: false
 logo: /assets/img/logo.png
-title: WHAT! YAKKO BLOG?
+title: Yep, the YAKKO blog!
 description: Where stuff that matters for YAKKO gets written down
-show_downloads: true
+description: Stuff that matters about <A HREF=https://github.com/ozchamo/YAKKO>YAKKO</A>
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 
