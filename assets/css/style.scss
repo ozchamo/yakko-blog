@@ -9,7 +9,7 @@ $serif: "Georgia", serif;
 $monospace: "Fira Mono", Monaco, Consolas, monospace;
 
 body {
-	font-family: 'Saira Condensed', sans-serif; 
+	font-family: $sans-serif;
 }	
 /*
 $sans-serif: "Open Sans", -apple-system, BlinkMacSystemFont, "Roboto", sans-serif;
