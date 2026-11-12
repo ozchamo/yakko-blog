@@ -6,3 +6,11 @@ category: blog
 layout: post
 ---
 ** IT WORKS
+## Subheading Example
+* Bullet point one
+* Bullet point two
+
+```python
+print("Code blocks work out of the box!")
+```
+
