@@ -9,13 +9,34 @@ $serif: "Georgia", serif;
 $monospace: "Fira Mono", Monaco, Consolas, monospace;
 
 body {
-	font-family: $sans-serif;
-	font-size: 20px;
+	font-family: 'Saira Condensed', sans-serif; 
 }	
+
+#body-centered {
+	text-align: center;
+	font-family: 'Saira Condensed', sans-serif; 
+}
 
 p {
 	font-family: 'Saira Condensed', sans-serif;
+	font-size: 20;
 }
+
+h1 {
+	font-family: 'Saira Condensed', sans-serif;
+	font-size: 36;
+}
+
+h3 {
+	font-family: 'Saira Condensed', sans-serif;
+	font-size: 22;
+}
+
+q {
+	font-family: 'Saira Condensed', sans-serif;
+	font-size: 20;
+}
+
 
 /*
 $sans-serif: "Open Sans", -apple-system, BlinkMacSystemFont, "Roboto", sans-serif;
