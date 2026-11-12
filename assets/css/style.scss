@@ -4,9 +4,12 @@
 @import "jekyll-theme-minimal";
 @import url('https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@100;200;300;400;500;600;700;800;900&family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
 
+$sans-serif: "Saira Condensed"
+$serif: "Georgia", serif;
+$monospace: "Fira Mono", Monaco, Consolas, monospace;
+
 body {
 	font-family: 'Saira Condensed', sans-serif; 
-    font-size: 20;
 }	
 /*
 $sans-serif: "Open Sans", -apple-system, BlinkMacSystemFont, "Roboto", sans-serif;
