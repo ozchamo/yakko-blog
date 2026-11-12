@@ -142,7 +142,6 @@ ul.downloads {
   height:40px;
 }
 
-/*
 .downloads li:first-child a {
   border-radius:5px 0 0 5px;
 }
@@ -150,7 +149,6 @@ ul.downloads {
 .downloads li:last-child a {
   border-radius:0 5px 5px 0;
 }
-*/
 
 .downloads a {
   line-height:1;
@@ -176,10 +174,12 @@ strong {
   font-weight:700;
 }
 
+/*
 .downloads li + li + li {
   border-right:none;
   width:89px;
 }
+*/
 
 .downloads a strong {
   font-size:14px;
