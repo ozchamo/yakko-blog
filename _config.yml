@@ -8,4 +8,5 @@ description: <BR><B>only stuff that matters about <A HREF=https://github.com/ozc
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+timezone: Australia/Sydney
 
