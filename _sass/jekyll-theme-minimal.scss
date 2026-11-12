@@ -124,6 +124,8 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
+  border-right:2px solid #e5e5e5;  /* vertical divider */
+  padding-left:20px;
 }
 
 ul.downloads {
@@ -190,8 +192,6 @@ section {
   width:500px;
   float:right;
   padding-bottom:50px;
-  border-right:2px solid #e5e5e5;  /* vertical divider */
-  padding-left:20px;
 }
 
 small {
