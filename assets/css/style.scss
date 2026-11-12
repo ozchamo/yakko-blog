@@ -2,3 +2,11 @@
 ---
 
 @import "jekyll-theme-minimal";
+$sans-serif: "Open Sans", -apple-system, BlinkMacSystemFont, "Roboto", sans-serif;
+$serif: "Georgia", serif;
+$monospace: "Fira Mono", Monaco, Consolas, monospace;
+
+body {
+  font-family: $sans-serif;
+}
+
