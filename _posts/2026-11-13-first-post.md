@@ -5,23 +5,15 @@ author: ozchamo
 category: blog
 layout: post
 ---
-** IT WORKS **
-## Subheading Example
-* Bullet point one
-* Bullet point two
 
 ```python
 print("Code blocks work out of the box!")
 ```
-[gh-pages d0d0087] update
- 1 file changed, 8 insertions(+)
-Enumerating objects: 7, done.
-Counting objects: 100% (7/7), done.
-Delta compression using up to 8 threads
-Compressing objects: 100% (4/4), done.
-Writing objects: 100% (4/4), 505 bytes | 505.00 KiB/s, done.
-Total 4 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
-remote: Resolving deltas: 100% (1/1), completed with 1 local object.
-To https://github.com/ozchamo/yakko-blog
-   8d46ada..d0d0087  gh-pages -> gh-pages
 
+I didn't think this would take me five years to do, but the truth is I have been more invested in making YAKKO shine than telling the world. So here it is, a place to read about YAKKO and all its internals.
+
+How did I get here? Put simply, since OpenShift 5 started coming alive I began putting some effort into supporting it. Under the hood, OpenShift 5 is not a revolution from the installation front, but after so many years of expecting a "4.x" prefix, the code wasn't ready. But it now is! And the community intent is clear - tracking the cloning of YAKKO proves that after 10 months of no change, people having been cloning it more than once a day. Not bad for software that is 9 months old right? 
+
+![OCP5 launch and YAKKO cloning](/images/clones-around-ocp5-launch.png)
+
+And so it is that with the launch of OpenShift 5 it only made sense to double down my efforts and release a nice round number version for YAKKO, why not score it with a 10? And this 10 comes loaded, visit the project page to check what's new, and prepare because this release will also bring GPU mapping. It's the AI era after all.
