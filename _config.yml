@@ -2,7 +2,7 @@ repository: ozchamo/YAKKO
 github:
   repository_url: https://github.com/ozchamo/YAKKO
 title: YAB for YAKKO
-description: YAB - Yet Another Blog! Where stuff that matters for YAKKO gets written down
+description: YAB - Yet Another Blog!<BR> Where stuff that matters for YAKKO gets written down
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
