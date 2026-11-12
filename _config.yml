@@ -3,8 +3,8 @@ github:
   repository_url: https://github.com/ozchamo/YAKKO
   is_project_page: false
 logo: /assets/img/logo.png
-#title: YAB for YAKKO
-description: YAB - Yet Another Blog!<BR> Where stuff that matters for YAKKO gets written down
+title: Yakko does have a blog...
+description: Where stuff that matters for YAKKO gets written down
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
