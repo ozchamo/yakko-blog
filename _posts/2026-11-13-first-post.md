@@ -14,8 +14,7 @@ I didn't think this would take me five years to do, but the truth is I have been
 
 How did I get here? Put simply, since OpenShift 5 started coming alive I began putting some effort into supporting it. Under the hood, OpenShift 5 is not a revolution from the installation front, but after so many years of expecting a "4.x" prefix, the code wasn't ready. But it now is! And the community intent is clear - tracking the cloning of YAKKO proves that after 10 months of no change, people having been cloning it more than once a day. Not bad for software that is 9 months old right? 
 
-![OCP5 launch and YAKKO cloning](https://github.com/ozchamo/yakko-blog/assets/blog-images/clones-around-ocp5-launch.png)
-![Image]({{ site.baseurl }}/blog-images/clones-around-ocp5-launch.png)
+![OCP5 launch and YAKKO cloning](/yakko-blog/assets/clones-around-ocp5-launch.png)
 
 
 
