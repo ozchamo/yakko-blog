@@ -2,7 +2,7 @@
 layout: default
 title: YAKKO Blog Home
 ---
-## Recent Posts
+## All posts :: newest First
 
 <ul>
   {% for post in site.posts %}
