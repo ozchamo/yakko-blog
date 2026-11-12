@@ -1,6 +1,7 @@
 repository: ozchamo/YAKKO
 github:
   repository_url: https://github.com/ozchamo/YAKKO
+  is_project_page: false
 title: YAB for YAKKO
 description: YAB - Yet Another Blog!<BR> Where stuff that matters for YAKKO gets written down
 show_downloads: false
