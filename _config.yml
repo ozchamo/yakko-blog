@@ -4,7 +4,7 @@ github:
   is_project_page: false
 logo: /assets/img/logo.png
 title: Yep, a YAKKO blog!
-description: <BR><B>only stuff that matters about <A HREF=https://github.com/ozchamo/YAKKO>YAKKO</A></B>
+description: <B>only stuff that matters about <A HREF=https://github.com/ozchamo/YAKKO>YAKKO</A></B>
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
