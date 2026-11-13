@@ -13,6 +13,6 @@ How did I get here? Put simply, since OpenShift 5 started coming alive I began p
 
 ![OCP5 launch and YAKKO cloning]({{ "/assets/img/clones-around-ocp5-launch.png" | relative_url }})
 
-And so it is that with the launch of OpenShift 5 it only made sense to double down my efforts and release a nice round number version for YAKKO, why not score it with a 10? And this 10 comes loaded, visit the project page to check what's new, and get ready, as this release will also bring GPU mapping. It's the AI era after all.
+And so it is that with the launch of OpenShift 5 it only made sense to **double** down my efforts and release a nice round number version for YAKKO, why not score it with a 10? And this 10 comes loaded, visit the project page to check what's new, and get ready, as this release will also bring GPU mapping. It's the AI era after all.
 
-Give it a go, share any troubles you find via comments on YAKKO's github page, and a response will come. It's early days for the amount of change, but fear not, it's already very solid.
+Give it a go, share your questions and findings via <A HREF="https://github.com/ozchamo/YAKKO/issues">issues on YAKKO's github page</A>, and a response will come. It's early days for the amount of change, but fear not, it's already very solid (and cool).
